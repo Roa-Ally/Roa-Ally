@@ -17,7 +17,7 @@ As a third-year computer science major and a mathematical science minor, I am pa
 **Tools/Technologies**: Git, GitHub, Unity <br>
 
 ## **Projects**
-**Light Project** (May 2024 - Present) [![My Skills](https://skillicons.dev/icons?i=cs,git,github,unity)](https://skillicons.dev)
+**Light Project** (May 2024 - Aug 2024) [![My Skills](https://skillicons.dev/icons?i=cs,git,github,unity)](https://skillicons.dev)
 - Developed a 2D top-down horror-themed light puzzle game.
 - Responsible for player movement implementation and comprehensive player management to ensure an immersive gaming experience.
 - Utilized Unity game engine and Git/GitHub for version control and collaboration.
